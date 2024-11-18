@@ -5,12 +5,12 @@ number: 1
 ---
 # Introduction
 
-{% assign media = site.media_metadata | where_exp: “item”, “item.name == ‘General Napoleon in the Council of the Five Hundred’” %} {% include media.html pages=media %}
+
 This is where you introduce your project to your audience. You should summarize briefly the topic you are working on. (250-350 words)
 
 The following is sample text to show the capabilities of presenting text with various formatting (such as bold), different languages, adding footnotes, and images.[^1]
 
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'EmperorNapoleon'" %}
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'General Napoleon in the Council of the Five Hundred'" %}
 {% include media.html pages=media %}
 
 
