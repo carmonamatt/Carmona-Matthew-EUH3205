@@ -9,7 +9,7 @@ creator: Francois Bouchot
 _date: 1799
 source: Wikipedia
 
-_path: /media_files/images/emperornapoleon.jpg 
+_path: /media_files/images/GeneralNapoleonintheCounciloftheFiveHundred.jpg 
 layout: media_description
 
 ---
