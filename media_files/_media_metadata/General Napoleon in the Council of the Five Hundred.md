@@ -9,7 +9,7 @@ creator: Francois Bouchot
 _date: 1799
 source: Wikipedia
 
-_path: /media_files/images/GeneralNapoleonintheCounciloftheFiveHundred.jpg 
+_path: /media_files/images/General Napoleon in the Council of the Five Hundred.jpg 
 layout: media_description
 
 ---
