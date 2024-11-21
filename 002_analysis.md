@@ -32,11 +32,9 @@ Building on the public nationalist fervor witnessed during “the springtime of 
 
 
 
-# Embedding a Single Video
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'RiseOfPrussia'" %}
-{% include media.html pages=media %}
 
-# Linking to a PDF File
+
+
 
 [^1]: Sudhir Hazareesingh, “Memory, Legend and Politics: Napoleonic Patriotism in the Restoration Era,” European Journal of Political Theory 5, no. 1 (January 2006): 72.
 [^2]:David A. Bell, “Revolutionary France and the Origins of Nationalism: An Old Problem Revisited.” in The Roots of Nationalism: National Identity Formation in the Early Modern Europe, 1600-1815, ed. Lotte Jensen (Amsterdam University Press, 2016), 79. https://www.jstor.org/stable/j.ctv8pzcpr.6.
