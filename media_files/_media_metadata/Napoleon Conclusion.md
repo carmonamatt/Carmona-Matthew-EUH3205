@@ -3,7 +3,7 @@
 name: Napoleon Conclusion
 media_type: image
 
-_title: Napoleon I at Fountaineblue
+_title: Napoleon Conclusion
 description: Napoleon as the Emperor of France
 creator: Paul Delaroche
 _date: 1814
