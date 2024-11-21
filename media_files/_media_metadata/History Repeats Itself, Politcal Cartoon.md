@@ -9,7 +9,7 @@ creator: Joseph Keppler
 _date: 1885
 source: Wikipedia
 
-_path: /media_files/images/History Repeats Itself, Political Cartoon.jpg 
+_path: /media_files/images/History Repeats Itself, Politcal Cartoon.jpg 
 layout: media_description
 
 --- 
