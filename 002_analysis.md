@@ -8,6 +8,14 @@ number: 2
 
 Now analyze your historical subject. (1000 words). You can include images, videos and PDFs that pertain to your subject using the examples below. To add more, simply copy, paste, and change the title of your item to correspond with your media file.
 
+# Rise of Militarism 
+
+Napoleon’s rule was characterized by intense military warfare. His triumphs led to a complete disruption of the former European order, forcing the rest of the continent to shift their perspective on the role of military within a nation. His influence is evident through the widespread adoption of conscription and the developing importance of artillery. The drastic reforms implemented are illustrated best by the rise of Prussian militarism which was introduced following their humiliating defeats during Napoleon's era. This section explores how Napoleon's military successes revolutionized the European approach to warfare, focusing on the adoption of conscription, the shift toward professional standing armies, and the transformation of Prussia's military system in the wake of Napoleon’s conquests.
+Though the military draft had already been partially introduced during the French revolution, it was under Napoleon that “conscription became foundational to the country’s military system” and key within France’s culture.[^8] He introduced levée en masse which required all able-bodied men to assemble under his orders and ensured a well developed and expansive army to rival the European powers. This mass conscription was revolutionary in changing the dynamic of war and proved so by being implemented in other countries following his fall. (Must be expanded upon)
+A unique aspect of Napoleon's military was the introduction of the corps system. Each of these structures had their own marshal, cavalry, infantry, and artillery effectively making each of them an independent, small army. This allowed for quick and decisive movements and “created semi-autonomous artillery formations which were under the command of smart, aggressive young artillery officers.”[^9] It is key to note that young officers were permitted to make these offensive artillery decisions because it was uncommon for this to happen without command from superiors. Being raised during and surrounded by the rhetoric of the French revolution, their spirits were fiery, independent, and determined, allowing them to make decisions with confidence. This mass movement towards war was made possible for Napoleon because of a rise in industrial efficiency and production[^10], allowing him to “offer his troops unprecedented artillery support.” (Must be expanded upon)
+One of the most stark cases of Napoleon’s military influence is the transformation of Prussia’s military system following his conquests. Before Napoleon, Prussia was considered to be the major military power in Europe because their army was the highest priority of the state, but despite this “had been unable to resist Napoleon's blow.”[^11] Following their humiliating defeats, many of the Prussians—though filled with contempt for revolutionary ideals—admired Napoleon for his impressive strategies and his distinctly unique method of accomplishing victory. Lauterbach states that one of the Prussian generals, after 1805, believed that the army should be “the combination of all the moral and physical forces of a nation.” This shift from a professionalized army that focused primarily on enlisting noblemen to one of mass conscription including the peasantry made the concept of total warfare possible, completely altering the dynamic of war. This is a concept which Clausewitz (left off on pg. 17)
+
+
 # Nationalism 
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'History Repeats Itself, Political Cartoon'" %}
@@ -32,4 +40,11 @@ Beyond influencing both international policy and militarism throughout the ninet
 [^5]:Joseph Ferdinand Keppler, History Repeats Itself, 25 March 1885, chromolithograph, Library of Congress, www.loc.gov/resource/ppmsca.28182/.
 [^6]:Bell, 80
 [^7]:Raymond Corbey, “Ethnographic Showcases, 1870-1930,” Cultural Anthropology 8, no. 3 (August 1993): 339, 343. https://www.jstor.org/stable/656317.
+[^8]:Louis Rouanet and Ennio E. Piano, “Drafting the Great Army: The Political Economy of Conscription in Napoleonic France,” The Journal of Economic History 83, no. 4 (2023): 1057–1100, https://doi.org/10.1017/S0022050723000360.
+[^9]:“Napoleonic artillery,” n.d. https://www.wtj.com/articles/napart/
+[^10]:Lauterbach, Albert T. “Militarism in the Western World: A Comparative Study.” Journal of the History of Ideas 5, no. 4 (1944): 446–78. https://doi.org/10.2307/2707081
+[^11]: Ibid.
+
+
+
 [Download PDF file]({{ site.baseurl }}/media_files/pdfs/newspaper1942.pdf)
