@@ -10,6 +10,9 @@ Now analyze your historical subject. (1000 words). You can include images, video
 
 # Rise of Militarism 
 
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Map of Europe in 1812'" %}
+{% include media.html pages=media %}
+
 Napoleon’s rule was characterized by intense military warfare. His triumphs led to a complete disruption of the former European order, forcing the rest of the continent to shift their perspective on the role of military within a nation. His influence is evident through the widespread adoption of conscription and the developing importance of artillery. The drastic reforms implemented are illustrated best by the rise of Prussian militarism which was introduced following their humiliating defeats during Napoleon's era. This section explores how Napoleon's military successes revolutionized the European approach to warfare, focusing on the adoption of conscription, the shift toward professional standing armies, and the transformation of Prussia's military system in the wake of Napoleon’s conquests.
                 
 Though the military draft had already been partially introduced during the French revolution, it was under Napoleon that “conscription became foundational to the country’s military system” and key within France’s culture.[^8] He introduced levée en masse which required all able-bodied men to assemble under his orders and ensured a well developed and expansive army to rival the European powers. This mass conscription was revolutionary in changing the dynamic of war and proved so by being implemented in other countries following his fall. (Must be expanded upon
