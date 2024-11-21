@@ -25,4 +25,11 @@ Beyond influencing both international policy and militarism throughout the ninet
 
 # Linking to a PDF File
 
+[^1]: Sudhir Hazareesingh, “Memory, Legend and Politics: Napoleonic Patriotism in the Restoration Era,” European Journal of Political Theory 5, no. 1 (January 2006): 72.
+[^2]:David A. Bell, “Revolutionary France and the Origins of Nationalism: An Old Problem Revisited.” in The Roots of Nationalism: National Identity Formation in the Early Modern Europe, 1600-1815, ed. Lotte Jensen (Amsterdam University Press, 2016), 79. https://www.jstor.org/stable/j.ctv8pzcpr.6.
+[^3]:Filippo Sabetti, “The Making of Italy as an Experiment in Constitutional Choice,” Publius 12, no. 3 (Summer 1982): 70, 74. https://www.jstor.org/stable/3329789.
+[^4]:Katherine Aaslestad, and Karen Hagemann, “1806 and Its Aftermath: Revisiting the Period of the Napoleonic Wars in German Central European Historiography,” Central European History 39, no. 4 (December 2006): 549, 565. https://www.jstor.org/stable/20457177.
+[^5]:Joseph Ferdinand Keppler, History Repeats Itself, 25 March 1885, chromolithograph, Library of Congress, www.loc.gov/resource/ppmsca.28182/.
+[^6]:Bell, 80
+[^7]:Raymond Corbey, “Ethnographic Showcases, 1870-1930,” Cultural Anthropology 8, no. 3 (August 1993): 339, 343. https://www.jstor.org/stable/656317.
 [Download PDF file]({{ site.baseurl }}/media_files/pdfs/newspaper1942.pdf)
