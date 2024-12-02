@@ -26,7 +26,15 @@ Sabetti, Filippo. “The Making of Italy as an Experiment in Constitutional Choi
 
 ## Primary Sources
 
-You should have at least one primary source.
+Social Policies:
+
+Militarism:
+
+Nationalism:
+
+Joseph Ferdinand Keppler, History repeats itself / J. Keppler., 25 March 1885, chromolithograph, Library of Congress, www.loc.gov/resource/ppmsca.28182/.
+
+
 
 ## Secondary Sources
 
