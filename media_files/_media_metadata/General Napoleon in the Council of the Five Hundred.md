@@ -1,6 +1,6 @@
 ---
 
-name: General Napoleon in the Council of the Five Hundred
+name: General Napoleon in the Council of the Five Hundred.
 media_type: image
 
 _title: General Napoleon in the Council of the Five Hundred
@@ -9,7 +9,7 @@ creator: Francois Bouchot
 _date: 1799
 source: Wikipedia
 
-_path: /media_files/images/General Napoleon in the Council of the Five Hundred.jpg 
+_path: /media_files/images/General Napoleon in the Council of the Five Hundred..jpg 
 layout: media_description
 
 ---
