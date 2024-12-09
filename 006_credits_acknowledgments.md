@@ -6,12 +6,12 @@ number: 6
 
 # Credits and Acknowledgments
 
-Matthew Carmona
+Matthew Carmona - Webmaster and Introduction
 
-Abigail Radel
+Abigail Radel - Analysis 1: Social Issue and Napoleonic Policy
 
-Madison Burke
+Madison Burke - Analysis 2: Military 
 
-Madeline Gardner
+Madeline Gardner - Analysis 3: Nationalism 
 
-Emilio Herodier
+Emilio Herodier - Conclusion, Timeline, and Bibliography
