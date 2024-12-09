@@ -8,7 +8,7 @@ number: 2
 
 Now analyze your historical subject. (1000 words). You can include images, videos and PDFs that pertain to your subject using the examples below. To add more, simply copy, paste, and change the title of your item to correspond with your media file.
 
-# The French Social, Economic, and Political Climate Before and During Napoleon’s Reign and How It Influenced Napoleonic Policies -Abigail Radel
+# The French Social, Economic, and Political Climate Before and During Napoleon’s Reign and How It Influenced Napoleonic Policies - Abigail Radel
 
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Napoleonic Code'" %} {% include media.html pages=media %}
