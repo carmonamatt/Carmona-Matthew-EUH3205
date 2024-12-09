@@ -4,7 +4,7 @@ title: Conclusion
 number: 3
 ---
 
-# Conclusion (Emilio Herodier)
+# Conclusion - Emilio Herodier
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Napoleon I at Fontainebleau'" %}
 {% include media.html pages=media %}
