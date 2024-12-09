@@ -72,11 +72,13 @@ Sabetti, Filippo. “The Making of Italy as an Experiment in Constitutional Choi
 
 ## Primary Sources
 
+“Brumaire: Bonaparte’s Justification,” LIBERTY, EQUALITY, FRATERNITY: EXPLORING THE FRENCH REVOUTION, accessed December 9, 2024, https://revolution.chnm.org/d/461.
+
+Joseph Ferdinand Keppler, History repeats itself / J. Keppler., 25 March 1885, chromolithograph, Library of Congress, www.loc.gov/resource/ppmsca.28182/.
+
 “The Code Napoleon: or, the French Civil Code,” Literally translated from the original and official edition, published at Paris, in 1804. By a Barrister of the Inner Temple (London: William Benning, 1827). https://oll.libertyfund.org/titles/bonaparte-the-code-napoleon-or-the-french-civil-code#  
 
 "Map of Europe in 1812," in World History Commons, https://worldhistorycommons.org/map-europe-1812 [accessed November 15, 2024]
-
-Joseph Ferdinand Keppler, History repeats itself / J. Keppler., 25 March 1885, chromolithograph, Library of Congress, www.loc.gov/resource/ppmsca.28182/.
 
 
 
