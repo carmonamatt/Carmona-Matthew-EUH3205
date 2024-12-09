@@ -10,7 +10,7 @@ number: 2
 # The French Social, Economic, and Political Climate Before and During Napoleon’s Reign and How It Influenced Napoleonic Policies - Abigail Radel
 
 
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Napoleonic Code'" %} {% include media.html pages=media %}
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Napoleonic Codes'" %} {% include media.html pages=media %}
 
 Napoleonic Policies: 
 
