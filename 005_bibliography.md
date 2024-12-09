@@ -6,7 +6,7 @@ number: 5
 
 # Bibliography
 
-Social Policy Sources:
+Social Issues and Napoleonic Policies Sources:
 
 Daron Acemoglu, “The Consequences of Radical Reform: The French Revolution,” National Bureau of Economic Research, 2009, https://www.nber.org/papers/w14831 
 
@@ -72,17 +72,12 @@ Sabetti, Filippo. “The Making of Italy as an Experiment in Constitutional Choi
 
 ## Primary Sources
 
-Social Policies:
+“The Code Napoleon: or, the French Civil Code,” Literally translated from the original and official edition, published at Paris, in 1804. By a Barrister of the Inner Temple (London: William Benning, 1827). https://oll.libertyfund.org/titles/bonaparte-the-code-napoleon-or-the-french-civil-code#  
 
-Militarism:
 "Map of Europe in 1812," in World History Commons, https://worldhistorycommons.org/map-europe-1812 [accessed November 15, 2024]
-
-Nationalism:
 
 Joseph Ferdinand Keppler, History repeats itself / J. Keppler., 25 March 1885, chromolithograph, Library of Congress, www.loc.gov/resource/ppmsca.28182/.
 
 
 
-## Secondary Sources
 
-You should have at least 5 secondary sources.
