@@ -6,6 +6,23 @@ number: 5
 
 # Bibliography
 
+Military Sources: 
+
+ [1] Louis Rouanet and Ennio E. Piano, “Drafting the Great Army: The Political Economy of Conscription in Napoleonic France,” The Journal of Economic History 83, no. 4 (2023): 1057–1100, https://doi.org/10.1017/S0022050723000360.
+ 
+[2] Stoker, Donald, Frederick C. Schneid, and Harold D. Blanton. "Conscription in the Napoleonic era." A revolution in military affairs (2009).
+
+[4] “Napoleonic artillery,” n.d. https://www.wtj.com/articles/napart/
+
+[5] Lauterbach, Albert T. “Militarism in the Western World: A Comparative Study.” Journal of the History of Ideas 5, no. 4 (1944): 446–78. https://doi.org/10.2307/2707081
+
+[6] Rory Muir, Tactics and the Experience of Battle in the Age of Napoleon, Yale University Press eBooks, 2017, https://doi.org/10.12987/9780300147681 51.
+
+[7] Lauterbach, Albert T. “Militarism in the Western World: A Comparative Study.” Journal of the History of Ideas 5, no. 4 (1944): 446–78. https://doi.org/10.2307/2707081.
+
+[9] Peter Paret, Yorck and the Era of Prussian Reform (Princeton University Press, 2015,) 157.
+
+
 Nationalism Sources:
 
 Aaslestad, Katherine, and Karen Hagemann. “1806 and Its Aftermath: Revisiting the Period of the Napoleonic Wars in German Central European Historiography.” Central European History 39, no. 4 (December 2006): 547-579. https://www.jstor.org/stable/20457177.
