@@ -7,7 +7,7 @@ number: 2
 # Analysis
 
 
-# The French Social, Economic, and Political Climate Before and During Napoleon’s Reign and How It Influenced Napoleonic Policies - Abigail Radel
+## The French Social, Economic, and Political Climate Before and During Napoleon’s Reign and How It Influenced Napoleonic Policies - Abigail Radel
 
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Napoleonic Codes'" %} {% include media.html pages=media %}
@@ -24,7 +24,7 @@ Napoleon had many other successful policies that were also motivated by the soci
 
 As we have explored, several of Napoleon’s policies were motivated by the social demands of the bourgeoisie, the role of women, the Three Estates, and the legal climate.  Napoleon was also determined to fix France’s financial crisis; the creation of the Bank of France and the reinstitution of colonial slavery clearly demonstrate this goal.  Napoleon did successfully elevate France’s financial position, but he did not increase the rights of women, political freedom, or freedom of the press.  Napoleon worked to keep tight political control through plebiscites and censorship of the press.  Nonetheless, Napoleon was very popular among the bourgeoisie, the military, and the commoners.  Most of Napoleon’s policies are successful representations of France’s social, economic, and political climate before and during Napoleon’s rise to power. 
 
-# Rise of Militarism - Madison Burke
+## Rise of Militarism - Madison Burke
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Map of Europe in 1812'" %}
 {% include media.html pages=media %}
@@ -40,7 +40,7 @@ Napoleon’s military triumphs led to a complete disruption of the former Europe
 
 
 
-# Nationalism - Madeline Gardner
+## Nationalism - Madeline Gardner
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'History Repeats Itself, Political Cartoon'" %}
 {% include media.html pages=media %}
