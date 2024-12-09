@@ -6,7 +6,7 @@ number: 5
 
 # Bibliography
 
-Social Issues and Napoleonic Policies Sources:
+## Social Issues and Napoleonic Policies Sources:
 
 Daron Acemoglu, “The Consequences of Radical Reform: The French Revolution,” National Bureau of Economic Research, 2009, https://www.nber.org/papers/w14831 
 
@@ -38,7 +38,8 @@ Robert Wilde, “What Was the ‘Third Estate’?,” Thoughtco, April 5, 2023, 
 Vincent Bignon and Marc Flandreau. “The Other Way: A Narrative History of the Bank of France,” Sveriges Riksbank and the History of Central Banking, (2018): 206-241, doi: https://doi.org/10.1017/9781108140430.006 
 
 
-Military Sources: 
+
+## Military Sources: 
 
  Lauterbach, Albert T. “Militarism in the Western World: A Comparative Study.” Journal of the History of Ideas 5, no. 4 (1944): 446–78. https://doi.org/10.2307/2707081
  
@@ -52,7 +53,7 @@ Stoker, Donald, Frederick C. Schneid, and Harold D. Blanton. "Conscription in th
 
 "Map of Europe in 1812," in World History Commons, https://worldhistorycommons.org/map-europe-1812 [accessed November 15, 2024]
 
-Nationalism Sources:
+## Nationalism Sources:
 
 Aaslestad, Katherine, and Karen Hagemann. “1806 and Its Aftermath: Revisiting the Period of the Napoleonic Wars in German Central European Historiography.” Central European History 39, no. 4 (December 2006): 547-579. https://www.jstor.org/stable/20457177.
 
