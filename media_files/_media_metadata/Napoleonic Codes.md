@@ -3,7 +3,7 @@
 name: Napoleonic Codes
 media_type: image
 
-_title: Napeleonoc Codes 
+_title: Napoleonic Codes 
 description: Copy of the Napoleonic Codes
 creator: Napoleon Bonaparte
 _date: 1810
