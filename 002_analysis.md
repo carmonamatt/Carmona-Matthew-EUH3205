@@ -40,7 +40,7 @@ Napoleon’s military triumphs led to a complete disruption of the former Europe
 
 
 
-# Nationalism (Madeline Gardner)
+# Nationalism - Madeline Gardner
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'History Repeats Itself, Political Cartoon'" %}
 {% include media.html pages=media %}
