@@ -6,7 +6,7 @@ number: 1
 # Introduction - Matthew Carmona
 
 
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'General Napoleon in the Council of the Five Hundred'" %}
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'General Napoleon'" %}
 {% include media.html pages=media %}
 
 
