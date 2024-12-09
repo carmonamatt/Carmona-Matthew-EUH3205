@@ -1,6 +1,6 @@
 --- 
 
-name: EmperorNapoleon
+name: Napoleonic Code
 media_type: image
 
 _title: Presenting the Code to Empress Josephine
