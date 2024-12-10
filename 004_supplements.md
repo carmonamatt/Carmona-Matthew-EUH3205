@@ -12,12 +12,13 @@ Do you have supplementary materials (such as media files) or links for further i
 
 <iframe class='timeline-iframe' src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1PjdYGizzYHakJg35U17XGA-GZJxSy8N5lv9Hsbj3tvk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-
+# Supplementary Writing
 
 # Supplementary Websites
 
 Place your links here to websites that have information about your topic.
 
 # Supplementary Media Files
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Rise of Napoloen'" %} {% include media.html pages=media %}
 
 
