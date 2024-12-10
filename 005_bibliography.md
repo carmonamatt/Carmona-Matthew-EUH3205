@@ -64,8 +64,6 @@ Currier, Nathaniel. The Crystal Palace: The Magnificent Building, for the World�
 
 Hazareesingh, Sudhir. “Memory, Legend and Politics: Napoleonic Patriotism in the Restoration Era.” European Journal of Political Theory 5, no. 1 (January 2006): 71-84.
 
-Hénard, Eugène, and Edmond Paulin. Paris, 1900 World Fair, Palace of Electricity, Water Tower and Palace of Mechanical and Chemical Industries (Exposition universelle de 1900, palais de l'Electricité, château d'eau et palais de la Mécanique et des Industries chimiques). 1898. Black lead pencil, ink, watercolor, gouache on paper, mounted on cardboard. Artstor. https://www.jstor.org/stable/community.10594887.
-
 Keppler, Joseph Ferdinand. History repeats itself / J. Keppler. 25 March 1885. Chromolithograph. Library of Congress. www.loc.gov/resource/ppmsca.28182/.
 
 Sabetti, Filippo. “The Making of Italy as an Experiment in Constitutional Choice.” Publius 12, no. 3 (Summer 1982): 65-84. https://www.jstor.org/stable/3329789. 
