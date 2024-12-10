@@ -14,7 +14,15 @@ Do you have supplementary materials (such as media files) or links for further i
 
 # Supplementary Websites
 
-Place your links here to websites that have information about your topic.
+
+The Napoleon Series Website:
+https://www.napoleon-series.org/
+
+Napoleon.org, The History Website of the Foundation Napoleon Website:
+https://www.napoleon.org/en/napoleonica-research/napoleonic-digital-library/
+
+Liberte, Egalite, Fratenite: Exploring the French Revolution:
+https://revolution.chnm.org/items/browse?tags=Napoleon+Bonaparte
 
 # Supplementary Media Files
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Rise of Napoloen'" %} {% include media.html pages=media %}
