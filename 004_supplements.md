@@ -15,15 +15,15 @@ number: 4
 
 The Napoleon Series Website:
 
-https://www.napoleon-series.org/
+  https://www.napoleon-series.org/
 
 Napoleon.org, The History Website of the Foundation Napoleon Website:
 
-https://www.napoleon.org/en/napoleonica-research/napoleonic-digital-library/
+  https://www.napoleon.org/en/napoleonica-research/napoleonic-digital-library/
 
 Liberte, Egalite, Fratenite: Exploring the French Revolution:
 
-https://revolution.chnm.org/items/browse?tags=Napoleon+Bonaparte
+  https://revolution.chnm.org/items/browse?tags=Napoleon+Bonaparte
 
 ## Supplementary Media Files
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Rise of Napoleon'" %} {% include media.html pages=media %}
