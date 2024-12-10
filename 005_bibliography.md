@@ -30,7 +30,6 @@ Robert Wilde, “What Was the ‘Third Estate’?,” Thoughtco, April 5, 2023, 
 
 “The Code Napoleon: or, the French Civil Code,” Literally translated from the original and official edition, published at Paris, in 1804. By a Barrister of the Inner Temple (London: William Benning, 1827). https://oll.libertyfund.org/titles/bonaparte-the-code-napoleon-or-the-french-civil-code#  
 
- 
 “The History of the Banque de France,” Banque de France, January 12, 2024, https://www.banque-france.fr/en/banque-de-france/institution-rooted-history/founding-history-banque-de-france  
 
  “Timeline: Consulate/1st French Empire,” Napoleon.org, August 23, 2018, https://www.napoleon.org/en/young-historians/napodoc/timeline-consulate1st-french-empire/   
