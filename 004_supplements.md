@@ -14,12 +14,15 @@ number: 4
 
 
 The Napoleon Series Website:
+
 https://www.napoleon-series.org/
 
 Napoleon.org, The History Website of the Foundation Napoleon Website:
+
 https://www.napoleon.org/en/napoleonica-research/napoleonic-digital-library/
 
 Liberte, Egalite, Fratenite: Exploring the French Revolution:
+
 https://revolution.chnm.org/items/browse?tags=Napoleon+Bonaparte
 
 ## Supplementary Media Files
@@ -39,11 +42,18 @@ Second, France was suffering from a major financial crisis before Napoleon’s r
 
 Third, there was tight political control, censorship, and limited rights for women that existed before Napoleon gained power.  However, these social and political issues increased under Napoleon’s policies.  Before Napoleon’s rise to power, there was already limited political freedom for the commoners and bourgeoisie.  Instead of increasing this political power, Napoleon instead increased censorship of the press and controlled political opposition through plebiscites.  For example, in 1802, Napoleon held a plebiscite to elect himself Consul for Life.  In 1804, Napoleon held another plebiscite, this time to crown himself emperor. [^6]  By plebiscites and censorship of the press, Napoleon kept tight political control and did not increase these rights much for the Third Estate.[^7]  Women also had little autonomy and society was largely patriarchal.  Fathers and husbands were given power over their families, property, wives, and children.  Women were considered legally subordinate to their husbands, divorce was more restrictive for women, and up until 1965, women were not allowed to work without their husband’s permission.[^8]  While Napoleon was able to make some sweeping reforms in other aspects of French life, the political control, the censorship of the press, and the limited rights for women did not change much under Napoleon’s policies.  
 [^1]: Richard Cavendish, “Napoleon Takes Power in France,” History Today, November 11, 1999, https://www.historytoday.com/archive/months-past/napoleon-takes-power-france#:~:text=The%20government%20was%20bankrupt%2C%20while,civil%20war%20in%20some%20areas
+
 [^2]: “Napoleon I”, Encyclopedia Britannica, October 26, 2024, https://www.britannica.com/biography/Napoleon-I
+
 [^3]: Daron Acemoglu, “The Consequences of Radical Reform: The French Revolution,” National Bureau of Economic Research, 2009, https://www.nber.org/papers/w14831
+
 [^4]: Robert Wilde, “What Was the ‘Third Estate’?,” Thoughtco, April 5, 2023, https://www.thoughtco.com/what-was-the-third-estate-1221471
+
 [^5]: Florin Aftalion, (trans: Martin Thom), The French Revolution: An Economic Interpretation (Cambridge University Press, 1987)
+
 [^6]: “Timeline: Consulate/1st French Empire,” Napoleon.org, August 23, 2018, https://www.napoleon.org/en/young-historians/napodoc/timeline-consulate1st-french-empire
+
 [^7]: Ibid.
+
 [^8]: “The Code Napoleon: or, the French Civil Code,” Literally translated from the original and official edition, published at Paris, in 1804. By a Barrister of the Inner Temple (London: William Benning, 1827). https://oll.libertyfund.org/titles/bonaparte-the-code-napoleon-or-the-french-civil-code#
 
