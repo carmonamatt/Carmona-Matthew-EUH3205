@@ -6,7 +6,7 @@ number: 1
 # Introduction - Matthew Carmona
 
 
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'General Napoleon'" %}
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'emperornapoleon'" %}
 {% include media.html pages=media %}
 
 
