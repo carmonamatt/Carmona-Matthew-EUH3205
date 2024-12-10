@@ -21,7 +21,6 @@ Monika Senkowska-Gluck. “Effects of Napoleonic Legislation on the Development 
 Napoleon I”, Encyclopedia Britannica, October 26, 2024, https://www.britannica.com/biography/Napoleon-I 
 
 “Napoleon and Urbanism in the 19th Century: Public Services,” Europeana, 2022,  
-
 https://www.europeana.eu/en/exhibitions/napoleon-and-urbanism-in-the-19th-century/public-services 
 
 Richard Cavendish, “Napoleon Takes Power in France,” History Today, November 11, 1999, https://www.historytoday.com/archive/months-past/napoleon-takes-power-france#:~:text=The%20government%20was%20bankrupt%2C%20while,civil%20war%20in%20some%20areas 
