@@ -71,7 +71,7 @@ Keppler, Joseph Ferdinand. History repeats itself / J. Keppler. 25 March 1885. C
 
 Sabetti, Filippo. “The Making of Italy as an Experiment in Constitutional Choice.” Publius 12, no. 3 (Summer 1982): 65-84. https://www.jstor.org/stable/3329789. 
 
-## Primary Sources
+## Primary Sources:
 
 “Brumaire: Bonaparte’s Justification,” LIBERTY, EQUALITY, FRATERNITY: EXPLORING THE FRENCH REVOUTION, accessed December 9, 2024, https://revolution.chnm.org/d/461.
 
