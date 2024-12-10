@@ -6,7 +6,7 @@ number: 4
 
 # Supplements
 
-## Timeline
+## Timeline - Emilio Herodier
 
 <iframe class='timeline-iframe' src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1PjdYGizzYHakJg35U17XGA-GZJxSy8N5lv9Hsbj3tvk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
