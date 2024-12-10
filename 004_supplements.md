@@ -27,15 +27,15 @@ Liberte, Egalite, Fratenite: Exploring the French Revolution:
 
 ## Supplementary Media Files
 
-Ten Minute History - The French Revolution and Napoleon (Short Documentary)
+Ten Minute History - The French Revolution and Napoleon (Short Documentary):
 
 https://www.youtube.com/embed/NeVJDd1XhIk?si=bLJxo_caGO2aNUTA
 
-Epic History - Quick Guide to Napoleonic Infantry Tactics
+Epic History - Quick Guide to Napoleonic Infantry Tactics:
 
 https://www.youtube.com/embed/cl7ElFROgts?si=eGE7T53zykzHpfQe
 
-Rise of Nationalism in Europe | History of Napoleon | French Revolution | History InSights
+Rise of Nationalism in Europe | History of Napoleon | French Revolution | History InSights:
 
 https://www.youtube.com/embed/-UdNTmPmGHU?si=z_49byBnhlnnp8uZ
 
