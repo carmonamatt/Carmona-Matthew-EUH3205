@@ -8,7 +8,7 @@ number: 6
 
 Matthew Carmona - Webmaster and Introduction
 
-Abigail Radel - Analysis 1: Social Issue and Napoleonic Policy
+Abigail Radel - Analysis 1: Social Issues and Napoleonic Policy
 
 Madison Burke - Analysis 2: Military 
 
