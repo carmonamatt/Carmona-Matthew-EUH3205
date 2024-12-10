@@ -1,6 +1,6 @@
 ---
 
-name: The French Revolution and Napoleon
+name: Rise of Napoleon
 media_type: video
 
 _title: Ten Minute History - The French Revolution and Napoleon
