@@ -26,7 +26,7 @@ Liberte, Egalite, Fratenite: Exploring the French Revolution:
 https://revolution.chnm.org/items/browse?tags=Napoleon+Bonaparte
 
 ## Supplementary Media Files
-{% assign media = site.media_metadata | where_exp: “item”, “item.name == ‘Rise of Napoleon’” %} {% include media.html pages=media %}
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Rise of Napoleon'" %} {% include media.html pages=media %}
 
 ## Supplementary Writing - Abigail Radel
 
